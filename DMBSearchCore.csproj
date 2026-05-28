@@ -3,7 +3,7 @@
         <RootNamespace>DMBSearchCore</RootNamespace>
         <Title>DMBSearchCore</Title>
         <PackageTags>idemobi Search Core</PackageTags>
-        <Description>Shared search primitives for ideMobi search builders and viewers.</Description>
+        <Description>Shared search normalization and query primitives for DMB search builder and viewer packages.</Description>
         <PackageReleaseNotes>Initial shared search text normalization helpers.</PackageReleaseNotes>
         <PackageIcon>DMBSearchCore.png</PackageIcon>
         <AssemblyOriginatorKeyFile>DMBSearchCore.snk</AssemblyOriginatorKeyFile>
@@ -26,9 +26,9 @@
         <Version>0.12.0</Version>
         <FileVersion>0.12.0.0</FileVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <Company>ideMobi</Company>
-        <Authors>Jean-Francois CONTART and Quentin BOULOGNE</Authors>
-        <Copyright>Copyright (c) $(Company) $([System.DateTime]::UtcNow.ToString("yyyy"))</Copyright>
+        <Company>idéMobi</Company>
+        <Authors>Jean-François CONTART, Quentin BOULOGNE, Camille GOLLIOT</Authors>
+        <Copyright>Copyright © $(Company) $([System.DateTime]::UtcNow.ToString("yyyy"))</Copyright>
         <NeutralLanguage>en</NeutralLanguage>
         <PackageProjectUrl>https://dev.azure.com/Game-Data-Forge/Game-Data-Forge</PackageProjectUrl>
         <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
