@@ -2,7 +2,7 @@
     <PropertyGroup>
         <RootNamespace>DMBSearchCore</RootNamespace>
         <Title>DMBSearchCore</Title>
-        <PackageTags>idemobi Search Core</PackageTags>
+        <PackageTags>idemobi DMB Search Core Normalization Tokenization Query Keywords</PackageTags>
         <Description>Shared search normalization and query primitives for DMB search builder and viewer packages.</Description>
         <PackageReleaseNotes>Initial shared search text normalization helpers.</PackageReleaseNotes>
         <PackageIcon>DMBSearchCore.png</PackageIcon>
