@@ -54,4 +54,7 @@
         <None Include="LICENSE.md" Pack="true" PackagePath="\"/>
         <None Include="DMBSearchCore.png" Pack="true" PackagePath="\"/>
     </ItemGroup>
+    <ItemGroup Label="Project file exclusions">
+        <None Remove=".gitignore" />
+    </ItemGroup>
 </Project>
